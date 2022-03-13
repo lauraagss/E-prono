@@ -1,0 +1,21 @@
+.nav-bar ul{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding-top: 5px;
+}
+
+.nav-bar-li-a{
+    display: flex;
+}
+.nav-bar-li-a a{
+    margin-left: 10px;
+
+}
+
+.nav-bar{
+    background-color: deeppink;
+    height: 55px;
+}
+

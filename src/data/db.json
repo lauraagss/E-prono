@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "laura@gmail.com",
+      "password": "password",
+      "coins": 188
+    },
+    {
+      "id": 2,
+      "email": "test",
+      "password": "test",
+      "coins": 100
+    },
+    {
+      "email": "lauragoncalves931704@gmail.com",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "email": "teeeest@test.com",
+      "password": "test",
+      "coins": "100",
+      "id": 4
+    },
+    {
+      "email": "lauragoncalqqves931704@gmail.com",
+      "password": "qqqqqqqqqqqq",
+      "coins": 100,
+      "id": 5
+    },
+    {
+      "email": "qsdqzedze@shgd.fr",
+      "password": "eeazeazeaez",
+      "coins": 100,
+      "id": 6
+    },
+    {
+      "email": "lauragoncalves931704@gmail.com",
+      "password": "azerty",
+      "coins": 100,
+      "id": 7
+    },
+    {
+      "email": "testetst@test.fr",
+      "password": "erty",
+      "coins": 100,
+      "id": 8
+    },
+    {
+      "email": "lauragoncalves931704@gmail.com",
+      "password": "testtest",
+      "coins": 100,
+      "id": 9
+    }
+  ],
+  "bets": [
+    {
+      "match": 622966,
+      "winner": "129705",
+      "amount": 10,
+      "id_user": 1,
+      "ended": true,
+      "id": 1
+    },
+    {
+      "match": 622967,
+      "winner": "129705",
+      "amount": 10,
+      "id_user": 1,
+      "ended": true,
+      "id": 2
+    },
+    {
+      "match": 622968,
+      "winner": "130428",
+      "amount": 10,
+      "id_user": 1,
+      "ended": true,
+      "id": 3
+    },
+    {
+      "match": 623276,
+      "winner": "130459",
+      "amount": 10,
+      "id_user": 1,
+      "ended": true,
+      "id": 4
+    },
+    {
+      "match": 623277,
+      "winner": "130457",
+      "amount": 10,
+      "id_user": 1,
+      "ended": true,
+      "id": 5
+    },
+    {
+      "match": 623277,
+      "winner": "130457",
+      "amount": 10,
+      "id_user": 1,
+      "ended": true,
+      "id": 6
+    },
+    {
+      "match": 623345,
+      "winner": 130473,
+      "amount": 18,
+      "id_user": 1,
+      "ended": true,
+      "id": 7
+    }
+  ]
+}

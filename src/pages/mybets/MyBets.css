@@ -1,0 +1,31 @@
+.myBets-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.myBets-container .not-finish {
+    background-color: rgb(84, 131, 218);
+}
+.myBets-container .win {
+    background-color: rgb(70, 177, 49);
+}
+.myBets-container .lose {
+    background-color: indianred;
+}
+.myBets-container .status {
+    color: white;
+    font-size: 15px;
+}
+
+.match-line{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.container-status {
+    margin-left: 15px;
+    padding: 2px 10px;
+    border-radius: 8px;
+}

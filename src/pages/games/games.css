@@ -1,0 +1,21 @@
+.game-content{
+    margin-bottom: 10px;
+}
+
+.game-button button{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.game-league {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+
+img {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+}
