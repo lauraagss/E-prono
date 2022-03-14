@@ -32,7 +32,6 @@ function MyBets() {
         for(const bet of myBets){
             if(!bet.ended) {
                 const crtMatchWinner = matchs.find(match => match.id === bet.match).winner;
-                if(crtMatchWinner !== null) await patchUser(userId, {coins: user().coins + bet.amount * 2});
                 if(crtMatchWinner === bet.winner && crtMatchWinner !== null)
                     await patchUser(userId, {coins: user().coins + bet.amount * 2})
                 

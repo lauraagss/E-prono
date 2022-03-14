@@ -36,7 +36,6 @@ export default function Login() {
                         return errors;
                     }}
                     onSubmit={(values, { setSubmitting }) => {
-                        console.log("test")
                         onSubmit(values);
                         setSubmitting(false)
                     }}

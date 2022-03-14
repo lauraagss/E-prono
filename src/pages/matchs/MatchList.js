@@ -45,9 +45,7 @@ export default function MatchList() {
             setMatchChosen(null);
             setTeamChosen(null);
         } catch (error) {
-            //todo
-            //message flash : une erreur est survenue, veuillez contacter un admin
-            console.log(error)
+
         }
         
     }
